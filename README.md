@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Balton Come's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltonCome&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baltonCome&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/baltonCome/github-readme-stats)
