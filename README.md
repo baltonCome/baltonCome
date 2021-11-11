@@ -7,6 +7,8 @@
 - 😄 Pronouns: Mr. Savagery!
 - ⚡ Fun Fact: I love Naruto...
 
+![Views](https://komarev.com/ghpvc/?username=baltonCome)
+
 ![Balton Come's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltonCome&show_icons=true&theme=solarized_dark)
 ![Balton Come Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baltonCome&theme=solarized_dark)
 
