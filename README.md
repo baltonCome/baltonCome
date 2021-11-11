@@ -1,4 +1,4 @@
-### h1 My Peak? Do you know my peak?😤
+### <h1 style="text-align:center"> My Peak? Do you know my peak?😤</h1>
 
 
 - 🌱 I’m currently learning Laravel and React!
@@ -7,11 +7,16 @@
 - 😄 Pronouns: Mr. Savagery!
 - ⚡ Fun Fact: I love Naruto...
 
-
+<div style="text-align:center">
 ![Balton Come's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltonCome&show_icons=true&theme=solarized_dark)
 ![Balton Come Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baltonCome&theme=solarized_dark)
+</div>
 
+<div style="text-align:center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baltonCome&langs_count=10&show_icons=true&theme=solarized_dark&layout=compact)](https://github.com/baltonCome/github-readme-stats)
 ![Balton Come Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baltonCome&theme=solarized_dark)
+</div>
 
+<div style="text-align:center">
 ![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baltonCome&theme=solarized_dark)
+</div>
