@@ -1,14 +1,13 @@
-### <h1 style="text-align:center"> My Peak? Do you know my peak?😤</h1>
+<h1 align="center">Hi, This is Balton Come <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-- 🌱 I’m currently learning Laravel and React!
-- 👯 I’m looking to collaborate on Anything Exciting!
-- 📫 How to reach me: baltoncome@outlook.com
-- 😄 Pronouns: Mr. Savagery!
-- ⚡ Fun Fact: I love Naruto...
-
+<div align="center">
+  
 ![Views](https://komarev.com/ghpvc/?username=baltonCome)
-
+  
+</div>
+  
+<div align="center">
+  
 ![Balton Come's GitHub stats](https://github-readme-stats.vercel.app/api?username=baltonCome&show_icons=true&theme=solarized_dark)
 ![Balton Come Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baltonCome&theme=solarized_dark)
 
@@ -16,3 +15,5 @@
 ![Balton Come Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baltonCome&theme=solarized_dark)
 
 ![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baltonCome&theme=solarized_dark)
+  
+ </div>
